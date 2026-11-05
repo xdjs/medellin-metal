@@ -1,0 +1,14 @@
+{
+  "name": "medellin-metal",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node server.mjs",
+    "check": "node --check public/app.js && node --check public/data.js && node --check public/contributions.js && node --check server.mjs",
+    "test": "npm run check && node check-content.mjs && node check-interactions.mjs"
+  },
+  "devDependencies": {
+    "jsdom": "26.1.0"
+  }
+}
