@@ -2,6 +2,11 @@
 
 # Medellín Metal
 
+## Originator and creative direction
+
+Concept, editorial direction and creative development by **[Pete Rango](https://github.com/p3t3rango)**, built with AI assistance. Music Nerd is the publishing context; repository ownership does not replace the creator credit.
+
+
 Standalone bilingual Music Nerd Lab documentary. Published at https://medellinmetal-mn.vercel.app. No runtime dependencies or credentials are needed to run locally.
 
 [Build protocol and copyable brief](BUILD-PROTOCOL.md) documents the actual tools, editorial iterations, research method, contribution flow and verification boundaries. [API authoring proposal](API-AUTHORING-PROPOSAL.md) covers the separate future integration.
