@@ -1,0 +1,6 @@
+{
+  "framework": null,
+  "installCommand": "",
+  "buildCommand": "mkdir -p public/research && cp research/RESEARCH.md public/research/RESEARCH.md",
+  "outputDirectory": "public"
+}
